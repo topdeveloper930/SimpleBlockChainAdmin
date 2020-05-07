@@ -1,4 +1,4 @@
-# strongblock
+# Block Chain Admin
 
 ## Project setup
 ```
